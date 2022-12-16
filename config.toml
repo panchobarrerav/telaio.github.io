@@ -1,4 +1,4 @@
-baseURL = 'https://panchobarrerav.github.io'
+baseURL = 'https://panchobarrerav.github.io/'
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'Telaio'
@@ -9,7 +9,7 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "satoshi"
+address = ""
 email = "satoshi@nakamoto"
 phone = "21.000.000"
 
