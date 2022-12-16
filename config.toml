@@ -2,7 +2,7 @@ baseURL = 'https://panchobarrerav.github.io'
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'Telaio'
-publishDir: "docs"
+publishDir = "docs"
 
 
 ## Site Settings
