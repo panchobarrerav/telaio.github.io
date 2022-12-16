@@ -1,4 +1,4 @@
-baseURL = 'https://www.trytela.io'
+baseURL = 'https://panchobarrerav.github.io/telaio.github.io'
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'Telaio'
@@ -6,12 +6,12 @@ title = 'Telaio'
 ## Site Settings
 [params]
 logo = "assets/img/logo.webp"
-favicon = "assets/telaio-zap.png"
+favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
-phone = "123456"
+address = "satoshi"
+email = "satoshi@nakamoto"
+phone = "21.000.000"
 
 # Socials
 
